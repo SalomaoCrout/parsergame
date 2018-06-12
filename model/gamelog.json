@@ -1,0 +1,67 @@
+
+{
+   "jogo":[
+      {
+          "jogo": "1",
+          "titulo": "Renegade",
+          "inicio_jogo": "08:00",
+          "fim_jogo": "08:30",
+          "total_mortes": "6",
+          "jogadores": "Dono da Bola, Isgalamido, Mocinha",
+          "mortes": "Dono da bola: 3, Isgalamido: 3 ",
+          "jeito_morreu": "MOD_ROCKET : 3, MOD_TRIGGER_HURT: 3"
+      },
+      {
+          "jogo": "2",
+          "titulo": "Sombra da morte",
+          "inicio_jogo": "08:35",
+          "fim_jogo": "09:00",
+          "total_mortes": "10",
+          "jogadores": "Isgalamido, Mocinha",
+          "mortes": "Mocinha 7, Isgalamido: 3 ",
+          "jeito_morreu": "MOD_ROCKET : 7, MOD_TRIGGER_HURT: 2, MOD_FALLING: 1"
+      },
+      {
+          "jogo": "3",
+          "titulo": "OverGame",
+          "inicio_jogo": "09:05",
+          "fim_jogo": "09:45",
+          "total_mortes": "16",
+          "jogadores": "Dono da Bola, Isgalamido",
+          "mortes": "Dono da bola: 10, Isgalamido: 6 ",
+          "jeito_morreu": "MOD_ROCKET : 8, MOD_TRIGGER_HURT: 5, MOD_ROCKET_SPLASH: 2"
+      },
+      {
+          "jogo": "4",
+          "titulo": "Renegade",
+          "inicio_jogo": "09:50",
+          "fim_jogo": "10:25",
+          "total_mortes": "18",
+          "jogadores": "Dono da Bola, Isgalamido, Mocinha",
+          "mortes": "Dono da bola: 7, Isgalamido: 3, Mocinha: 8 ",
+          "jeito_morreu": "MOD_ROCKET_SPLASH : 5, MOD_TRIGGER_HURT: 10, MOD_FALLING: 3"
+      },
+      {
+          "jogo": "5",
+          "titulo": "Sombra da morte",
+          "inicio_jogo": "10:28",
+          "fim_jogo": "10:45",
+          "total_mortes": "12",
+          "jogadores": "Dono da Bola, Isgalamido, Mocinha",
+          "mortes": "Dono da bola: 3, Isgalamido: 8, Mocinha: 0 ",
+          "jeito_morreu": "MOD_ROCKET : 3, MOD_TRIGGER_HURT: 8, MOD_FALLING: 1"
+      },
+      {
+          "jogo": "6",
+          "titulo": "OverGame",
+          "inicio_jogo": "10:55",
+          "fim_jogo": "11:30",
+          "total_mortes": "22",
+          "jogadores": " Isgalamido, Mocinha",
+          "mortes": " Isgalamido: 10, Mocinha: 12 ",
+          "jeito_morreu": "MOD_ROCKET : 8, MOD_TRIGGER_HURT: 5, MOD_ROCKET_SPLASH: 10"
+      }
+
+    ]
+
+}
